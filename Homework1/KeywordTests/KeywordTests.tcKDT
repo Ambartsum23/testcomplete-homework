@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="Test1" key="{8E407118-5324-4638-B5D0-84D1231ACD2C}" path="Test1.tcKDTest" />
+		<child name="Test4" key="{E1F28422-3086-4466-8E78-2A2972C51DEE}" path="Test4.tcKDTest" />
+		<child name="OrdersWithExcelData" key="{02D89B42-4372-40E4-B3F4-006BD8F15895}" path="OrdersWithExcelData.tcKDTest" />
+		<child name="OrdersWithSQLData" key="{4D7C9785-CF18-4641-832F-1A358092AFDF}" path="OrdersWithSQLData.tcKDTest" />
+	</children>
+</Root>

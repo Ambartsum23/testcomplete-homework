@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="Unit1" key="{21B93219-DA89-47E0-ACA4-66F3D6173478}" path="Unit1.js" />
+		<child name="Task2Unit" key="{003ACAC5-3B31-4F40-B8B5-D12CF37D25A8}" path="Task2Unit.js" />
+		<child name="common" key="{124E9F92-2D67-437E-B8EC-BD5AB82FEB1F}" path="common.js" />
+		<child name="CallDB" key="{7CED9252-E11D-47E6-A7C3-0033A08893A9}" path="CallDB.js" />
+		<child name="OrdersWithExcelData" key="{485733C8-D4DC-4815-A69B-B26A1E8FFE2D}" path="OrdersWithExcelData.js" />
+	</children>
+</Root>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{A257673C-4BC9-4B49-AD9F-1F028EFD65BF}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.Orders" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A11ED9D0D0F09F6CCCC0F0BF815C0CB217A8975470E0C001889DA3FA8745F881E293540C4E73B0F807A52112314C3F481F39E917A48F61100000133B6ACE" />
+					<Bitmap Name="Aliases.Orders.dlgConfirmation" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.Orders.Main" Data="61717A697000000001000000360400007801A5534B4EC330107D483D004760C909B245628960C319D87006EEC19E151207E000EC90104242424815E5534129A54DF38FED7C98B16393A812156DA2F12463BF9737CFCEEE81D783BE3C1AB729369BD8C0163DD1D5CC9B1733D658EF3EDAF3B04A1C1FEE68DCCDE539541298886690E1376430819C7F41F89F10B311C4F403F9F805D97B1FE9EB03E2A73BC4FD5B872FD208A7FB3DBC5D5DE8CC1CFCDEAEF1B3980C717D76A2EBC9F3FD2F3E8BC11CAC83D729D2C159068647F863D2415A4807D7F3D100E9F0D1E1CB3C45D170687C3C373CE15467AE713087CEA48339D837EEBF14192C07CF174E87AFD7B775683CE9E05E1C5EE68E83E739D80B453AAC27B66E33FB6AF1552151B6386C2FAC43EF4DEC6B4FACAF766F1CBE2CD0E11029F593902711F91A2E70D8FDB5F8BA2A51351C95128D96E51C0E5FD319FE1707F5437BD3C12FE53067447B42BEAAC85FC47738142AF587AFC461BFCF67609560FC7A7F6F8D1F5B1D3A8B" />
+					<Bitmap Name="Aliases.Orders.OrderForm" Data="61717A697000000001000000360400007801A5534B4EC330107D483D004760C909B245628960C319D87006EEC19E151207E000EC90104242424815E5534129A54DF38FED7C98B16393A812156DA2F12463BF9737CFCEEE81D783BE3C1AB729369BD8C0163DD1D5CC9B1733D658EF3EDAF3B04A1C1FEE68DCCDE539541298886690E1376430819C7F41F89F10B311C4F403F9F805D97B1FE9EB03E2A73BC4FD5B872FD208A7FB3DBC5D5DE8CC1CFCDEAEF1B3980C717D76A2EBC9F3FD2F3E8BC11CAC83D729D2C159068647F863D2415A4807D7F3D100E9F0D1E1CB3C45D170687C3C373CE15467AE713087CEA48339D837EEBF14192C07CF174E87AFD7B775683CE9E05E1C5EE68E83E739D80B453AAC27B66E33FB6AF1552151B6386C2FAC43EF4DEC6B4FACAF766F1CBE2CD0E11029F593902711F91A2E70D8FDB5F8BA2A51351C95128D96E51C0E5FD319FE1707F5437BD3C12FE53067447B42BEAAC85FC47738142AF587AFC461BFCF67609560FC7A7F6F8D1F5B1D3A8B" />
+					<Bitmap Name="Aliases.Orders.OrderForm.Group" Data="61717A697000000001000000360400007801A5534B4EC330107D483D004760C909B245628960C319D87006EEC19E151207E000EC90104242424815E5534129A54DF38FED7C98B16393A812156DA2F12463BF9737CFCEEE81D783BE3C1AB729369BD8C0163DD1D5CC9B1733D658EF3EDAF3B04A1C1FEE68DCCDE539541298886690E1376430819C7F41F89F10B311C4F403F9F805D97B1FE9EB03E2A73BC4FD5B872FD208A7FB3DBC5D5DE8CC1CFCDEAEF1B3980C717D76A2EBC9F3FD2F3E8BC11CAC83D729D2C159068647F863D2415A4807D7F3D100E9F0D1E1CB3C45D170687C3C373CE15467AE713087CEA48339D837EEBF14192C07CF174E87AFD7B775683CE9E05E1C5EE68E83E739D80B453AAC27B66E33FB6AF1552151B6386C2FAC43EF4DEC6B4FACAF766F1CBE2CD0E11029F593902711F91A2E70D8FDB5F8BA2A51351C95128D96E51C0E5FD319FE1707F5437BD3C12FE53067447B42BEAAC85FC47738142AF587AFC461BFCF67609560FC7A7F6F8D1F5B1D3A8B" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{66F32D5F-A5DB-420E-9CB4-3DB7CADE2692}">
+				<Data Description="Runs the &quot;Orders&quot; tested application." TestedApp="Orders">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Count" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="IgnoreRunning" DefVarType="11" DefValueType="7" DefValueValue="False" VarType="11" ValueType="7" ValueValue="False" />
+						<Parameter Name="Timeout" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="4" VariableName="ExcelData">
+					<Records FromBegin="True" ToEnd="True" StartRecord="1" StopIndex="1" />
+				</Data>
+				<Children>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Item" DefVarType="12" VarType="3" ValueType="1" ValueValue="4" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.Main.Menu;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="27" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="3" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Customer;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="ExcelData" ColumnName="customerName" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Customer;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="39" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="4" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Street;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="ExcelData" ColumnName="street" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Street;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="44" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="15" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.City;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="ExcelData" ColumnName="city " />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.City;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="78" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="11" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.State;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="ExcelData" ColumnName="state" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.State;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.ButtonOK;" />
+						</Data>
+					</Operation>
+				</Children>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.Main;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.dlgConfirmation.btnNo;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{F8C5FE0D-DBA7-4ECF-85C0-591C29225FDD}">
+		<Items>
+			<Variable Name="ExcelData" Type="DB Table" Local="False">
+				<DefValue Kind="{94ACFE87-8AC5-4220-8268-52323FBEB9FB}">
+					<ConnectionInfo FileName="..\..\..\data.xlsx" Table="Sheet1$" HasColumnNames="True" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{21DD8384-A755-4937-9EC5-A9B051419EB0}" />
+</Root>
