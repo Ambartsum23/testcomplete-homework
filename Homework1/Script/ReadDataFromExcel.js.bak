@@ -1,0 +1,34 @@
+﻿function OrdersWithExcelData()
+{
+  //Runs the "Orders" tested application.
+  TestedApps.Orders.Run();
+  Project.Variables.ExcelData.Reset();
+  for(; !Project.Variables.ExcelData.IsEOF();)
+  {
+    //Clicks the 4 item of the 'Menu' toolbar.
+    Aliases.Orders.Main.Menu.ClickItem(4, false);
+    //Clicks the 'Customer' object.
+    Aliases.Orders.OrderForm.Group.Customer.Click(27, 3);
+    //Enters the text KeywordTests.OrdersWithExcelData.Variables.ExcelData("customerName") in the 'Customer' text editor.
+    Aliases.Orders.OrderForm.Group.Customer.SetText(Project.Variables.ExcelData.Value("customerName"));
+    //Clicks the 'Street' object.
+    Aliases.Orders.OrderForm.Group.Street.Click(39, 4);
+    //Enters the text KeywordTests.OrdersWithExcelData.Variables.ExcelData("street") in the 'Street' text editor.
+    Aliases.Orders.OrderForm.Group.Street.SetText(Project.Variables.ExcelData.Value("street"));
+    //Clicks the 'City' object.
+    Aliases.Orders.OrderForm.Group.City.Click(44, 15);
+    //Enters the text KeywordTests.OrdersWithExcelData.Variables.ExcelData("city ") in the 'City' text editor.
+    Aliases.Orders.OrderForm.Group.City.SetText(Project.Variables.ExcelData.Value("city "));
+    //Clicks the 'State' object.
+    Aliases.Orders.OrderForm.Group.State.Click(78, 11);
+    //Enters the text KeywordTests.OrdersWithExcelData.Variables.ExcelData("state") in the 'State' text editor.
+    Aliases.Orders.OrderForm.Group.State.SetText(Project.Variables.ExcelData.Value("state"));
+    //Clicks the 'ButtonOK' button.
+    Aliases.Orders.OrderForm.ButtonOK.ClickButton();
+    Project.Variables.ExcelData.Next();
+  }
+  //Closes the 'Main' window.
+  Aliases.Orders.Main.Close();
+  //Clicks the 'btnNo' button.
+  Aliases.Orders.dlgConfirmation.btnNo.ClickButton();
+}

@@ -1,0 +1,9 @@
+﻿var common=require("common")
+
+  function printName(){
+
+      let title=common.getDataFromDb("SELECT top 1 customerName FROM [orders].[dbo].[orders]",["customerName"]);
+
+      Log.Message(title)
+
+    }
